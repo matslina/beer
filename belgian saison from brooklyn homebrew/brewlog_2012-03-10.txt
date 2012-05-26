@@ -1,0 +1,121 @@
+== Brew day (2012-03-10) ==
+
+== Recipe mods ==
+Scaled the recipe linearly down to ~9.5 litres.
+
+Extract only, will do full mini-mash next time.
+
+1.3 kg extra light _DME_
+
+Yeast: 3724 Belgian Saison (Wyeast Activator)
+
+Hops and candy sugar as per the recipe (but 50%).
+
+=== Brew ===
+Activated yeast about 40 minutes before boil started. That's a bit too
+late according to the instructions; it should get 3 full hours to
+activate. Guessing it'll be fine anyway.
+
+Added 9 l water. Dissolved 1 kg DME while bringing to boil. Added
+another 290 g DME after 30 minutes. Added Protafloc after 40 minutes.
+
+Put in wort chiller at 60 minutes, added the aroma hops at 65 minutes,
+flame out at 66 minutes. Gave it a 10 minute rest and then started
+cooling.
+
+Had about 6.8l after boil, so a bit over 2 litres lost. Strained into
+fermenter and added preboiled and cooled water to top up to 9.5l.
+
+Aerated by pouring back and fourth for a while.
+
+Pitched yeast, slushed it all around a bit. Sealed.
+
+OG: 1.058
+
+Feeling pretty good about this. Done in less than 4 hours, including
+cleaning up and all that cruft. The sample I took formed that same
+weird layering at the bottom that I saw in the last two batches, even
+though the hop bill was way lower this time. I don't think it's a
+problem though (fingers crossed). Otherwise the sample was fairly
+clear and had a bright light almost lager like colour.
+
+
+== Sample (2012-03-24) ==
+
+Two weeks later. The smell is very much like that of a Saison so the
+yeast has definitely done something.
+
+However, SG is 1.030, so we have a problem here.
+
+According to Wyeast's FAQ, pitching within 3 hours of activation, or
+even without activation, is not a problem. Only lag time should be
+affected.
+
+In response to this, I did the following:
+
+* checked room temperature in the cellar (19 C, OK)
+* gave the bucket a good swirl to recativate the yeast
+* put a piece of wood under the bucket to insulate it a bit from the
+  potentially cold concrete floor
+* wrapped the bucket in a picnic blanket to further insulate it
+
+I expect fermentation to have visibly restarted by tomorrow or
+possibly the day after. If it hasn't, then I'll sprinkle a bag of
+Safale S-05 dry yeast into the bucket and see if that helps.
+
+== Inspection (2012-03-25) ==
+
+Healthy bubble rate in the airlock. I think it'll be fine. Slightly
+worried that I caused oxidization by swirling the bucket so
+much. Should probably have used a sanitized spatula to gently stir up
+the yeast instead. Anywho, it'll be fine.
+
+== Inspection (2012-04-03) ==
+
+Still bubbling away. About 2-3 seconds between each bubble. Feels like
+it should've been done fermenting by now. This batch has been on
+fermenter for almost 4 weeks now.
+
+I read in Brewing Classic Styles (Zainasheff, Palmer) that Saisons
+have a tendency to not ferment out as well as they should. The book
+suggests adding dry champagne yeast or a neutral ale yeast to reach
+the target FG.
+
+I plan to take a sample some time in a few days. If it still hasn't
+reached a reasonable FG, then I'll add some S-05 and see if that
+helps.
+
+
+== Inspection (2012-04-05) ==
+
+SG is now at 1.020. Sprinkled a package of Safale S-05 over it and put
+a thermometer between the bucket and the blanket. Seems to be a steady
+19 C. This is a tad on the cool side, so I'd like to bring the bucket
+up to the apartment. Not sure if I'll find room for it though.
+
+
+== Inspection (2012-04-14) ==
+
+The bugger is still slowly bubbling away, but the gravity is at 1.009,
+so I guess it's done. It does taste like a saison, fwiw. I think
+there's an off flavour in there, but no point in obsessing about that
+until I've tried it fully carbonated and chilled. Will bottle soon.
+
+== Dry hopping (2012-04-19) ==
+
+Since this batch has been on primary for so awfully long, I suspect
+there will be some weirdness in the final product. I figured I might
+as well make it even more weird by dry hopping it.
+
+Threw in 40 g of Hallertau. No hop bag. Curious to see what happens.
+
+== Bottling (2012-04-22) ==
+
+NTS: use a hop bag next time.
+
+I had to siphon this of to the bottling bucket since the floating hops
+would've clogged the spigot. That in turn meant I agitated the yeast
+slurry a fair bit and got way more of that gunk into the bottles than
+I would have wanted to.
+
+5 litres on mini keg, about 3-4 litres on bottles.

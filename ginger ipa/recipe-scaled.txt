@@ -1,0 +1,40 @@
+Linearly scaled to half of the original volume.
+
+Ingredients:
+  170 g American Crystal 20L
+  115 g American Crystal 60L
+   60 g Belgian Biscuit
+  1.5 kg light LME
+  225 g Honey
+   30 g Galena hops (12.2%)
+    5 g Chinook hops (11.6%)
+   30 g Fuggles hops (4.6%)
+   30 g Ginger
+   15 g Amarillo hops (optional for dry hopping)
+   1 vial White Labs California Ale yeast
+ .37 cups corn sugar
+ .37 cups water
+
+OG: 1.055
+FG: 1.013
+ABV: 5.5%
+
+Steep the grains for 30 minutes in 6 liters at 66 C. Gradually
+bring temperature up to 77 C.
+
+Add 1.5kg LME and 225g honey. Bring to boil. Start timer.
+
+Schedule:
+  0  minutes: 15 g Galena hops
+  15 minutes: 15 g Galena hops
+  30 minutes:  5 g Chinook hops
+  45 minutes:  5 g Fuggles hops
+              30 g chopped ginger
+  60 minutes: 25 g Fuggles (flameout)
+
+The ginger should be kinda finely chopped. But not too finely. Aim for
+"lagom".
+
+Top off to 10.5l. Cool to room temperature. Add yeast. Ferment.
+
+A reader comment suggest dry hopping with 15 g Amarillo hops.

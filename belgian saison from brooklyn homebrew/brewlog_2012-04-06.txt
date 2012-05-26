@@ -1,0 +1,58 @@
+== Recipe mods ==
+Mini-mash + extract, as per the recipe, but linearly scaled down 50%.
+
+Malt: Weyermann's Pale Wheat and Pilsner Malt (both ecologic)
+Yeast: 3724 Belgian Saison (Wyeast Activator)
+
+Also adding protafloc.
+
+Adding sliiiightly more hops than the recipe prescribes to compensate
+for the hops having been in the freezer for a couple of weeks. Roughly
+16g of each type.
+
+Everything else according to the scaled recipe.
+
+
+== Brew day (2012-04-06) ==
+
+Rikard helping out today. We got started around 11:30 and immediately
+activated the yeast (made sure to take it out of the fridge about an
+hour earlier).
+
+It was pretty tricky keeping the temperature at 67 C. We went way
+above several times. Doing such a small mini-mash was perhaps not all
+that smart.
+
+After mash and rinse we bumped up the volume to roughly 10
+liters. Boil started at 13:40.
+
+65 minute boil. Aroma hops added about 3 minutes before flame
+out. Cooled to 20 C. Gave us about 7.5l so we topped up to 9.5 - 10
+liters.
+
+Poured back and forth between two buckets a couple of times to
+aerate. Added yeast. Poured back and forth one more time and then
+sealed the bucket.
+
+Will ferment this in a wardrobe in the apartment, since the previous
+batch seemed to stall in the basement.
+
+OG: 1.062
+
+== Inspection (2012-04-21) ==
+
+The temperature in the wardrobe has been at a very stable 19 C, but
+this batch has still not fermented out.
+
+SG: 1.030
+
+I sprinkled a package of Safale S05 over it to help it along. It was
+bubbling away the day after and I thiiiink it'll be fine. Question is
+if it'll reach an acceptable FG before I go to Thailand for vacation
+on the 26th.
+
+== Bottling (2012-05-05) ==
+
+I was on vacation in Thailand, so Rikard handled the bottling. He
+didn't do a hydrometer reading, so no idea if the dry yeast addition
+helped. Will check SG of the beer when I crack the first bottle open.

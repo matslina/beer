@@ -1,0 +1,38 @@
+Source: http://beerrecipes.org/showrecipe.php?recipeid=1254
+
+Ingredients:
+  5.5 kg light malt extract syrup
+  230g 120 crystal malt
+  30g chocolate malt
+  1 tsp irish moss
+  120g Chinook whole hops
+  120g Cascade whole hops (60g for steeping, 60g for dry hopping)
+  White Labs California ale yeast (WLP001)
+
+OG: 1.080	 FG: 1.014
+
+Primary Ferment: I transfered to secondary after bubble rate in air
+Secondary Ferment: 2 weeks in secondary then racked to another carboy
+
+Procedure:
+
+Steep grains in 11.4 l water at 68 C for 30 minutes.
+
+Remove from heat, sparge grain bag with 5 dl of water at 65 C.
+
+Add 2.7 kg of the malt extract, or add all of the extract if a darker
+colour is desired.
+
+Bring to a boil and start the 60 minute timer.
+
+After  0 minutes, add 60g Chinook
+After 15 minutes, add the irish moss.
+After 30 minutes, add 30g Chinook hops
+After 40 minutes, add 30g Chinook hops
+After 60 minutes, remove from heat
+
+Add the remaining malt extract, if any. Once that's dissolved, add 60g
+Cascade hops and steep for 15 minutes.
+
+Strain into fermentor. Top off to 21 litres. Cool to 24 C. Aerate,
+pitch yeast and ferment.

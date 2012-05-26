@@ -1,0 +1,66 @@
+[ ] Fetch, clean and sanitize equipment
+   [ ] spatula
+   [ ] fermentation bucket + lid + water lock
+   [ ] thermometer
+   [ ] hydrometer
+   [ ] wine thief
+   [ ] grain sock
+   [ ] strainer
+   [ ] yeast starter container
+
+[ ] Fetch and clean but don't bother sanitizing
+   [ ] brew pot
+   [ ] water sprayer with star san solution
+   [ ] pot with star san solution
+
+[ ] Prep and weigh ingredients
+   [ ] 2.7 kg light malt extract syrup
+   [ ] 115g 120 crystal malt
+   [ ] 15g chocolate malt
+   [ ] 1/4 kryddmått protafloc (or Xg of irish moss)
+   [ ] 30g Chinook
+   [ ] 15g Chinook
+   [ ] 15g Chinook
+   [ ] 30g Cascade
+   [ ] 30g Cascade
+   [ ] yeast (2 packets of whatitsname)
+   [ ] lots of ice OR a wort chiller
+
+[ ] Additional preparations
+   [ ] Vacuum seal 30g Cascade and put in freezer for dry hopping
+   [ ] Boil 5-8l water for 5-10 minutes and set it to cool
+   [ ] Put all the grains in a grain sock
+   [ ] Fill brew pot with 6l cold water
+
+[ ] Steep the grains
+   [ ] Put grain sock in brew pot
+   [ ] Bring up temperature to 68 degrees C
+   [ ] Keep temp at 68 C for 30 minutes
+   [ ] Remove grains
+
+[ ] Boil the wort!
+   [ ] Dissolve 1.4 kg malt extract
+   [ ] Bring wort to a boil
+   [ ] Add 30g Chinook
+   [ ] Start 60 minute timer
+   [ ] 30 min: add 15g Chinook
+   [ ] 40 min: add the protafloc
+   [ ] 45 min: add 15g Chinook
+   [ ] 60 min: remove from heat
+   [ ] Add remaining malt extract
+   [ ] Add 30g Cascade
+   [ ] Start 15 minute timer
+
+[ ] Finalize!
+   [ ] Rehydrate dry yeast
+   [ ] Cool to fermentation temperature (19-24 C)
+   [ ] Pour 4l of the boiled water into fermentation bucket
+   [ ] Aerate the water (shake it like a polaroid picture)
+   [ ] Strain wort into fermentation bucket
+   [ ] Top off to 11l
+   [ ] Aerate more
+   [ ] Measure (original) special gravity
+   [ ] Pitch yeast
+   [ ] Seal with lid
+   [ ] Aerate more
+   [ ] Insert water lock and set to ferment

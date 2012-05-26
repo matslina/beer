@@ -1,0 +1,40 @@
+Source: http://tapirtantrum.com/2009/01/03/ginger-ipa/
+
+Ingredients:
+  340 g American Crystal 20L
+  230 g American Crystal 60L
+  115 g Belgian Biscuit
+   3 kg light LME
+  450 g Honey
+   60 g Galena hops (12.2%)
+   10 g Chinook hops (11.6%)
+   60 g Fuggles hops (4.6%)
+   60 g Ginger
+   30 g Amarillo hops (optional for dry hopping)
+   1 vial White Labs California Ale yeast
+ .75 cups corn sugar
+ .75 cups water
+
+OG: 1.055
+FG: 1.013
+ABV: 5.5%
+
+Steep the grains for 30 minutes in 11.4 liters at 66 C. Gradually
+bring temperature up to 77 C.
+
+Add 3kg LME and 450g honey. Bring to boil. Start timer.
+
+Schedule:
+  0  minutes: 30 g Galena hops
+  15 minutes: 30 g Galena hops
+  30 minutes: 10 g Chinook hops
+  45 minutes: 15 g Fuggles hops
+              60 g chopped ginger
+  60 minutes: 45 g Fuggles (flameout)
+
+The ginger should be kinda finely chopped. But not too finely. Aim for
+"lagom".
+
+Top off to 21l. Cool to room temperature. Add yeast. Ferment.
+
+A reader comment suggest dry hopping with 30 g Amarillo hops.

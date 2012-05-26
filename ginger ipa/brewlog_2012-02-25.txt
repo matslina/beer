@@ -1,0 +1,125 @@
+== Brew day ==
+
+Rikard helped out. Very convenient to have an extra set of hands. We
+started around 11:30 and were completely finished (including cleaning
+up) around 15:10.
+
+=== Recipe mods ===
+
+I used Safale Fermentis S-05 dry yeast instead of White Labs
+California Ale. Instead of American Crystal 20L, I used Weyermanns
+Carared (EBC: 40-50). And instead of American Crystal 60L, I used
+Muntons Crystal Malt (EBC: 120-140).
+
+Also replaced the 1.5g of LME with 1.2kg of DME.
+
+I bumped up the Ginger from 30g to 40g and the Honey from 225g to
+250g. Not sure why. =)
+
+
+=== Brew ===
+
+Steep and boil went smoothly. No hickups.
+
+Cooled to 20C in 15 minutes or so. Strained to bucket and poured in a
+couple of litres of preboiled and cooled water. We still came out a
+few liters short so we panic boiled 3 litres extra and cooled it to
+20C with the wort chiller. Bumped up to 10.5l.
+
+OG: 1.062 @ 20C
+
+I suspect that lack of aeration was the cause of the previous batch
+(Double Your Pleasure IPA) ending up with such a high FG. With that in
+mind I sanitized an extra bucket and poured the wort back and forth a
+few times. It sure looked aerated to me.
+
+Yeast hydration was well planned this time around. Sprinkled the dry
+yeast over water at ~25C. Stirred it a bit 15 minutes later. Poured
+over wort 15 minutes later.
+
+=== Primary fermentation ===
+
+Inspected fermentor at 01:30, i.e. roughly 10 hours after pitching
+yeast. Lots and lots of bubbles.
+
+== Sample ==
+
+Took a 100 ml sample 2012-03-10, i.e. 2 weeks after brew day.
+
+SG: 1.009
+
+I suspect that'll end up being our FG.
+
+The beer had a nice dark yellow colour. Pretty hazy, but I took the
+sample with my wine thief and must have stolen quite a bit of yeast,
+so no worries.
+
+The smell was very similar to that of Sjätte Tunnan's mead. There was
+a certain spicyness there, but I didn't really interpret it as
+ginger.
+
+The taste was more beery. A clear bitterness, similar to what I'd
+expect from a wort sample prior to pitching yeast. Guessing it needs a
+couple of weeks on bottle to get a good balance.
+
+Very promising.
+
+
+== Dry hopping (2012-03-13) ==
+
+Boiled a hop bag. Filled with 20g of Chinook whole hops. Dropped into
+fermenter. Finger's crossed. Also took the opportunity to do another
+hydrometer reading.
+
+FG: 1.009
+
+== Bottling (2012-03-17) ==
+
+About 11 litres in bucket. Dissolved 51 grams of sugar in 3 dl of
+water. Put roughly 1 dl into a 5l party keg and filled it up directly
+from fermentation bucket. (loving the spigots, they rock).
+
+Transfered the rest into a spigot-less bucket holding the remaining 2
+dl of disolved sugar. Siphoned to bottles. 5.33 litres in total: 1x1l,
+6x0.5l and 4x0.3l.
+
+I didn't bother tasting it at this point since I have a bit of a cold
+and would probably not really pick up any flavours.
+
+
+== Sampling (2012-04-06) ==
+
+I've tried several bottles by now and this is a delicious beer. Would
+love to drink it on a warm summer day.
+
+The colour is a dark yellow, a bit red, almost orange. Pours with a
+very nice head. The beer is very hazy and I should perhaps try
+clearing it with gelatine next time around.
+
+The smell is very distinct. Slightly gingery, but mostly spicy. Again,
+it reminds me a lot of the mead at Sjätte Tunnan in Gamla Stan.
+
+In the taste I find the same spicy notes, but to a lesser degree, and
+given more balance by the hop bitterness. There's a lot of juniper in
+there.
+
+My main issue with the beer is that I'd like it to have a bit more of
+a malt character. Guessing that the early honey addition only served
+to make the beer dry. Could be a good idea to use less honey and more
+extract next time.
+
+Still, this is definitely the best brew so far. Very tasty. No
+off-flavours. Very different.
+
+
+== Note on carbonation (2012-05-26) ==
+
+A month ago, or so, I had some friends over for some homebrew and
+Street Fighter 2 on SNES. We finished the 5l mini keg in 3 hours or
+so. It was _delicious_.
+
+I remembered after writing the previous notes that I accidentally
+poured out some of the sugar solution from the keg, so carbonation was
+way lower than on bottle. Similar to a very weakly carbonated british
+ale. Turns out that that was a good thing. The beer was very
+drinkable.

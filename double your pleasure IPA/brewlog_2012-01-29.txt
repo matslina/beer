@@ -1,0 +1,149 @@
+== Process ==
+
+=== Brew day ===
+
+I followed the original recipe quite closely, but scaled down to 11
+liters linearly. Created a detailed checklist (checklist.txt) for this
+brew, which was very handy.
+
+Crushed the chocolate malt in a plastic bag with a rolling pin (the
+crystal was already crushed). I ignored the part about sparging the
+grain bags after steeping.
+
+Couldn't find enough light malt extract at PGW, so I added 1.8kg light
+Muntons LME after steeping and then roughly 0.9 _medium_ LME at flame
+out.
+
+My cascade hops turned out to be waaaay too old; the bag was opened in
+August 2011. The hops had a smell that reminded me of old orienteering
+training clothes. Not good. I threw it in anyway at flame out.
+
+Another deviation from the original recipe's process is that I cooled
+the wort in the brew pot (ice bath, ~45 minutes) instead of in the
+fermenter. I also used ~1/4 ml of protafloc instead of Irish
+moss. Added it around 15 minutes before flame out.
+
+The preboiled and cooled water I added at the end came up about 2
+liters short so I used water straight from the tap to compensate.
+
+I used Safale US-05 dry yeast instead of liquid California Ale
+yeast. My rehydration was possibly a bit rushed but primary
+fermentation seemed to be strong so I'm guessing that's ok.
+
+OG: 1.060
+
+Weird. I measured at 24 C, so scaled to 15 C it should be about 1.080
+as the recipe states (scaling based on Palmer's How To Brew). I
+suspect that the recipe is at 20C though, as that seems to be the case
+for most US recipes.
+
+Reading the OG was kinda tricky with all the Star San foam. I've since
+bought a 100ml measuring glass to fix that.
+
+=== Dry hopping (7 days) ===
+
+Racked to a secondary bucket when bubbling had mostly subsided. Threw
+in 30 grams of new and fresh Cascade hops in a hop bag.
+
+Racking was a bit of a bitch, since the stupid PVC hose is completely
+stuck to both the auto siphon and to the bottle filler. I made do the
+best I could and managed to transfer it all.
+
+
+== Bottling (25 days) ==
+
+Rikard came over to help out. It took quite a while to clean and
+sanitize everything so it was good to have a helper.
+
+Bubbling had essentially subsided, so I decided to bottle. I knew I
+should've taken hydrometer readings to verify that fermentation was
+done, but I was so eager to free up room in the cellar for fermenting
+another batch that I just decided to go for it.
+
+FG: 1.018
+
+Given how weird my OG reading was, I can't really say what FG I should
+expect. Recipe said 1.012, so perhaps I'm ok. This reading was at room
+temperature (~20C). Adjusting the OG to 20C would put it at 1.069 and
+ABV 6.7%. Then again, the original OG reading was probably messed up a
+fair bit by Star San foam and me not really knowing how to use the
+hydrometer.
+
+I disolved 6g sugar per liter beer (54g in total) in about the same
+volume of water. Put the syrup in a bucket and siphoned over the beer
+from the secondary fermenter. Racked ~5l into a party keg and the rest
+into bottles. This time around I had a brand new silicone hose for the
+siphon. Much better than PVC!
+
+The beer tasted pretty green at this point, but I did not detect the
+same off flavours that I did in my first batch (Örjan Pale Ale -
+August 2011). Distinct bitterness, but not as much as I had
+expected. There's still a very distinct flavour of "something" that I
+also had in the ÖPA.
+
+== Insights ==
+
+* Mega fail forgetting to buy new and fresh hops. Be more careful in
+  the future.
+
+* Siphoning is annoying. I've since bought spigots for my buckets
+  that'll hopefully simplify things.
+
+* Measuring OG with all that Star San foam in the Thief was
+  tricky. I've since bought a measuring glass to fix this.
+
+* Cooling 5 liters of wort took ages. I've since built an immersion
+  wort chiller that works wonders.
+
+* An early conclusion when dry hopping was to never again rack to
+  secondary. Not so sure now that I've installed spigots on some of
+  the buckets.
+
+* I should have more boiled and cooled water available. Tap water is
+  almost certainly fine as well, but it just feels wrong to put all
+  that effort into sanitation and then use plain tap water.
+
+
+== Finished beer ==
+
+Sampled a few bottles over the next two weeks. Very dark colour. A
+slightly yeasty smell, but not much hop aroma. Some sourness in the
+taste, similar to that of Örjan Pale Ale. I picked up some chocolate
+in there and a lot of bitterness. The high FG is pretty obvious, and
+the flavour is way too sweet tbh.
+
+Thinking I dry hopped too early. Most of the aroma probably just
+evaporated with the CO2 during secondary fermentation. Also, the lack
+of aeration was a big fail and it didn't ferment out the sugars as it
+should've.
+
+The scariest part is the sourness. It should not be there. The only
+explanation I have is unfortunately that my fermentation bucket may be
+scratched and have some nasty stuff growing there. I took care to PBW
+the shit out of all buckets after that.
+
+
+== Conclusion ==
+
+=== 2012-03-17 ===
+
+This is not a very nice beer. The sourness ruins it completely. The
+high FG also ruins the experience. To the list of good things I have
+to add the malt character. The chocolate malt brings some nice aromas.
+
+I've dumped the last 2 litres on bottle to make room for a ginger
+IPA. The 5 litre on keg remains. Will probably try drinking it with
+friends/coworkers in a couple of weeks, but not expecting it to be any
+good then either.
+
+The high FG is almost certainly a consequence of me failing to aerate
+properly. So where did the sourness come from? Candidates:
+
+* topping off with tap water?
+* sanitizing dry hopping bag with star san instead of boiling?
+* a strange consequence of the high FG?
+* an infection lingering in my buckets from Örjan Pale Ale?
+
+I really don't know. The first three have however been (mostly)
+eliminated in later brews. I've tried to counter the last by PBWing
+all buckets very thoroughly.

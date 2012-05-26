@@ -1,0 +1,103 @@
+== Process ==
+
+=== Brew day ===
+
+I decided to brew the same recipe once more, but with a bunch of
+modifications. Hopefully the mods would teach me something
+useful. Unfortunately, it seems like I went a bit too far in my mods.
+
+Modifications to recipe:
+
+* 2.2 kg extra light dry malt extract
+** 1.5 kg after steeping
+** 0.7 kg at flame out
+* 10 grams of chocolate malt
+* 300 g rye malt
+* 100 g pale ale malt
+* more hops!
+* liquid Wyeast California Ale yeast
+
+I crushed the rye and chocolate malt with my brand new Corona
+mini-mill. Realized I had no clue about how fine grain the crush
+should be, and it ended up being pretty darn fine...
+
+Steeped it in two bags. The one with rye was extremely sticky when I
+took it out of the wort. Like, ridiculously sticky.
+
+The hops were added at the same times as previously, but in the
+following amounts:
+
+* 0  minutes: 40g Chinook
+* 30 minutes: 25g Chinook
+* 40 minutes: 20g Chinook
+* 45 minutes: 1/4 ml Protafloc
+* 60 minutes: 35g Cascade (flame out)
+
+Instead of 15 minutes rest after flame out, I gave it like 7 minutes
+and the put in my beautiful new immersion wort chiller. Cooled the
+whole shebang in 15 minutes or so. Possibly a bit too cold tbh, I
+think I was just below 20 C.
+
+Had one mega fail where the wort chiller hose came loose and started
+pumping out water all over the kitchen floor.
+
+The liquid yeast was brought out of the fridge a bit too late. It only
+got 1.5 hour in room temperature, instead of the 3-6 recommended
+hours.
+
+I strained the wort into my fermentation bucket through a
+"saftsil". Since I was a tiny bit short on liquid at the end I took
+the liberty of squeezing the mesh a fair bit to get out the last bits
+of beer. That may have been a bad idea?
+
+OG: No idea
+
+Fuckup of the week happened the evening before when I was super drunk
+and decided to show my beer stuff to a couple of friends that were
+over for dinner. I managed to smash the hydrometer, so no OG reading
+for me. I did however take a 100ml sample and put it in the fridge to
+check OG later on. Should work.
+
+[Measured gravity of the sample at ~20C 10 days later. OG: 1.090]
+
+Now, all the above may sound like a successful brew, but no. I noticed
+while cooling that there was alot of weird looking stuff in the brew
+pot. Looked a bit like when one has improperly used a dairy product in
+cooking and the milk-stuff starts to separate from the water.
+
+The iffyness was obvious when I took that 100ml sample. After 20
+minutes there was a layer of about 20 ml at the bottom of the
+sample. Not sure exactly what the stuff is, but it's not looking
+good. Probably the effect of my stupid ass idea to steep rye malt. I
+read up a bit and realized that rye malt is in fact _NOT_ steepable.
+
+Stupid ass shit. There's a thick layer of that stuff on the bottom of
+my fermenter as well. I've no idea what'll happen...
+
+== Dry hopping ==
+
+Racked to secondary after 7 days. 25g Cascade added in a hops bag. The
+spigot worked great, much more convenient than siphoning.
+
+== Insights ==
+
+* WTF was I thinking? Rye malt in the steep!?!?!?!??! GAAAAAAAHH!!!!!!
+
+* I should be careful with the chiller. Getting 2 liters of water on
+  the kitchen floor is very annoying.
+
+* Rye malt? For fucks sake... =(
+
+* I must never ever again show off my beer equipment to friends when
+  drunk.
+
+* I should learn more about how to use the Corona crusher.
+
+
+== Conclusion ==
+
+Given all the issues, I ended up dumping the batch to make room for a
+new one. A bit sad, but the sucker was still bubbling a after more
+than 4 weeks and I'm pretty sure that wasn't the beer yeast's work.
+
+SG was about 1.018 here as well.
