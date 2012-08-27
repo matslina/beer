@@ -1,0 +1,32 @@
+Version 1
+---------
+
+There are a bunch of Summer Ale clone recipes floating around on the
+intertubes. I'm basing this one mostly on these:
+
+http://beersmithrecipes.com/viewrecipe/5730/brooklyn-summer-ale
+http://homebrewexchange.net/recipe_Brooklyn_Summer_Ale_Clone
+http://brooklynbrewery.com/brooklyn-beers/seasonal-brews/brooklyn-summer-ale
+http://beer.dahoove.com/index.php?page=recipeDetail&filter=dahoove&id=40
+
+This will be a BIAB mash at 65C. I perceive the original to be quite
+light bodied, hence the low mash temperature. I hope the pilsner malt
+will also work to that effect.
+
+
+20 litre batch
+
+Ingredients:
+   3 kg Maris Otter pale malt
+ 1.5 kg pilsner malt
+  50 g Cascade hops
+  20 g Amarillo hops
+   1   Nottingham British Ale Yeast
+
+Hop schedule:
+  0 minutes: 20 g Cascade hops
+ 60 minutes: 15 g Cascade hops
+ 75 minutes: Protafloc or Irish Moss
+ 90 minutes: 15 g Cascade hops
+
+Dry hop with 20 g Amarillo.

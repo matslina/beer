@@ -1,0 +1,53 @@
+Trying out all grain with the BIAB method this time.
+
+Scaling it all down linearly to half the batch size.
+
+== Starter (2012-08-23) ==
+
+Made a starter wort with 1.5l water and 150g light DME. Pitched 1 pack
+of Nottingham ale yeast from Danstar. Let it ferment on the stir plate
+for 36 hours. Crashed in fridge (5 C) over night. Big and healthy
+looking yeast cake at the bottom of the flask now. FG 1.009.
+
+Boiling directly in the erlenmeyer flask worked well, but I had to
+pull it off the heat every now and then to keep it from foaming over.
+
+== Brew day (2012-08-26) ==
+
+=== Mash ===
+
+Added the grains to 11 liters of water at 68 C. Temperature dropped to
+67 C, which was less than I expected. Guessing I pulled the kettle
+from the stove too late and thereby overshot the 68 C target.
+
+1 hour mash. Temperature dropped 3 degrees to 64 C. Squeezed the bag a
+fair bit. Since I'm an idiot, I sparged with some hot water (at 70 C)
+and completely forgot to calculate how much water I lost to the
+grains. Guesstimating that I sparged with 2 litres, and I ended up
+with ~11l in the kettle, so I shouldn't have lost more than 2l to the
+grain.
+
+Measured the SG to 1.042 at 48 C, so that should be 1.050 at 20 C
+(according to [1]). This in turn puts the efficiency at 77% (according
+to [2]). Not too shabby.
+
+[1] http://www.brewersfriend.com/hydrometer-temp/
+[2] http://www.brewersfriend.com/brewhouse-efficiency/
+
+
+=== Boil ===
+
+As per schedule. Managed to get an acceptable roll by putting the
+kettle across two burners.
+
+Fail 1: Did not check volume before flame out. Turns out I was 2
+liters short. Stupid. Was in a rush and pretty tired at this point so
+I decided to top up with tap water. It'll probably be fine.
+
+OG: 1.054
+
+That's a bit too high I think. Brooklyn Brewery's beer has ABV 5%, and
+this will probably end up closer to 6%. I blame the 77% efficiency...
+
+NTS: And now I know why pre-boil gravity matters. Dilute next time
+     around.
