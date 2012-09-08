@@ -51,3 +51,22 @@ this will probably end up closer to 6%. I blame the 77% efficiency...
 
 NTS: And now I know why pre-boil gravity matters. Dilute next time
      around.
+
+== Dry hopping (2012-09-08) ==
+
+Took a hydrometer reading and added 12 g of Amarillo pellets in a
+boiled hop bag.
+
+SG: 1.008
+
+Guessing the pilsner malt and possibly also the low mash temp did it's
+thing.
+
+However, the flavour is not what I'd hoped for. It's a bit stale and
+it leaves an unpleasant aftertaste that lingers for minutes. It
+reminds me a bit of swedish low alcholol beer ("lättöl", <= 1.5% ABV),
+or perhaps of a generic lager that's been left open half-full over
+night.
+
+I put the remainder of the sample in the fridge to see if a lower
+temperature improves the flavour.
