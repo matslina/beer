@@ -1,0 +1,57 @@
+Trying to make a full 20l batch today, but since I only have a 16
+litre kettle I'm far from certain that I'll be able to reach the
+required pre boil gravity.
+
+
+== Starter (2012-11-02) ==
+
+Made a 1.5 litre starter wort with 150 g light DME. I pitched yeast
+that I harvested from the last batch (the 2012-08-26 brew). Couldn't
+find my stir plate so I had to do without.
+
+== Brew day ==
+
+Jonas and Jansson helping out tonight.
+
+I'm dialing back the pilsner malt a tad as well. 3 kg of Maris Otter
+and 1 kg of Pilsner (recipe calls for 1.5 kg).
+
+=== Mash ===
+
+Added the grains to 10 litres of water and then added about 2 litres
+of boiling water to raise the temperature to 69 C. The kettle really
+is full to the brim now, won't be able to add more malt to this
+kettle.
+
+1 hour mash. Temperature dropped to about 67 C. Sparged with ~2.5
+litres of water at 75 C.
+
+Ended up with ~13.5 litres of wort at 1.059 (sample temperature was 47
+C), i.e. about 1.067 when adjusting for temperature [1]. That puts our
+efficiency at ~71%. Not shabby at all! I definitely thought I would be
+lower given the kettle size to grain weight ratio.
+
+Have to say that my grain bag feels a bit iffy. It's very fine grained
+and we had a hard time squeezing out all the liquid.
+
+[1] http://www.brewersfriend.com/hydrometer-temp/
+[2] http://www.brewersfriend.com/brewhouse-efficiency/
+
+== Boil ==
+
+We did a 60-70 minute boil instead of the prescribed 90 for Pilsner
+malt. Jonas had a train to catch and we didn't feel like wasting too
+much time.
+
+Got about 9 litres out of the kettle. Way less than I had
+anticipated. Still I had calculated that, given my pre boil gravity, I
+should have 18 litres to reach 1.050, so I just went ahead and diluted
+with another 9 litres of water.
+
+OG: 1.041
+
+I've made som mistake somewhere for sure. I'd have to hit an FG of
+1.003 to reach 5% ABV, and that's just not going to happen. 4% seems
+more likely.
+
+Oh well. I'll just pretend I was trying to brew a session beer.
