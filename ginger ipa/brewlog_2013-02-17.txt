@@ -1,0 +1,39 @@
+== Recipe
+
+Simplifying and changing up the recipe a bit. Threw out the biscuit
+malt and 20L crystal. Bumped up the 60L crystal instead. Curious to
+see what happens.
+
+Also replaced the Galena hops with Pilgrim and threw out the
+Chinook. Not really on purpose, I just couldn't find Galena or Chinook
+at my LHBS.
+
+Ingredients:
+  600 g Crystal 60L
+ 2500 g Medium DME
+   70 g Pilgrim (12%)
+   60 g Fuggles
+   60 g Ginger
+  500 g Honey
+
+== Brew day (2013-02-17)
+
+Steeped the crystal malt in 11 litres at roughly 67 C for 30
+minutes. Brought it to a boil.
+
+Schedule:
+  0  min: 30 g Pilgrim
+  15 min: 30 g Pilgrim
+  30 min: 10 g Pilgrim
+  45 min: 15 g Fuggles
+          500 g Honey
+          yeast nutrient
+          protafloc
+  50 min: 60 g ginger
+  60 min: 45 g Fuggles
+
+OG: 1.054
+20 litres
+
+Fermenting with Safale US-05. Aerated by shaking the bucket for a few
+minutes.
