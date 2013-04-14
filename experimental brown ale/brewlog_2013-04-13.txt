@@ -1,0 +1,38 @@
+Inventing a brown ale recipe.
+
+20 litres.
+
+Ingredients:
+ 3.6 kg Munton's medium LME
+  230 g Crystal Malt 10L
+  130 g Chocolate Malt
+   65 g East Kent Golding hops 6% alpha
+    2 packs Safale US-05
+
+OG: 1.052
+FG: 1.014
+ABV: 4.9%
+
+Steep the grains for 30 minutes at 65 C. Add 3.6 kg LME. Bring to
+boil. Start timer.
+
+Schedule:
+  0  minutes: 30 g East Kent Golding
+  30 minutes: 20 g East Kent Golding
+  45 minutes: 50 g Belgian Candi Sugar
+              protafloc or irish mosh
+              yeast nutrient
+  55 minutes: 15 g East Kent Golding
+
+Ferment at 20 C.
+
+
+== Brew day (2013-04-13)
+
+My crush of the chocolate malt may have been a bit too fine. Lots of
+malty gunk floating up as the temperature rises. No problems
+otherwise.
+
+Steeping was at 68 - 65 C for 35 minutes.
+
+OG was 1.053.
