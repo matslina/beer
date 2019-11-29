@@ -56,3 +56,28 @@ Specific gravity reading was 1.046 before adding 1.5 cup of tea
 water. Used an online calculator to compute the diluted gravity.
 
 OG: 1.044
+
+== Check in (2019-11-29)
+
+Haven't seen any bubbles in the airlock during these two weeks, but
+there's definitely been a very active fermentation going on. The lid
+doesn't seem to form a tight enough seal, and I also had a bit too
+much water in the lock. No worries though.
+
+Opened it up today. Took a sample and measured gravity. I don't have a
+good test jar, so I put the hydrometer straight into the fermenter. A
+little bit hard to get a good reading that way, but I'm guesstimating
+the absolute error is less than 0.001.
+
+SG: 1.000
+
+The sample smelled a lot like white wine. Very lightly carbonated. Dry
+and tart, but not overly so. Couldn't pick up any particular off
+flavour, and while it's not "good", it's definitely not "bad"
+either. I think another week on primary and a month or two on bottle
+could do a lot to improve the flavour.
+
+A thick layer of lees has formed on the bottom of the fermenter. It
+unfortunately covers the spigot, so I've bought a small auto-siphon
+and a 2 gallon bottling bucket to be able to transfer it off without
+bringing along too much gunk. Expecting to bottle it in a week or so.
