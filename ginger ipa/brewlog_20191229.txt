@@ -1,0 +1,68 @@
+== Recipe
+
+Scaling this down to roughly 2 gal. Rounding all the numbers pretty
+liberally here (for simplicity) so it'll be a bit different from the
+previous batches.
+
+Replacing Galena and Amarillo with Chinook; Fuggle with
+Willamette. DME instead of LME. Again, simplicity.
+
+
+Ingredients:
+   4 oz American Crystal 20L
+   2 oz American Crystal 60L
+   2 oz Belgian Biscuit
+   2 lbs light DME
+   6 oz Honey
+ 1.5 oz Chinook hops
+ 0.5 oz Willamette hops
+ 0.5 oz Ginger
+   1 pack Safale S-04
+
+Steep the grains for 30 minutes in 1 gal at 66 C. Gradually
+bring temperature up to 77 C.
+
+Add the DME and honey. Bring to boil. Start timer.
+
+Schedule:
+  0  min: 0.5 oz Chinook
+  30 min: 0.5 oz Chinook
+  45 min: 0.5 oz Ginger (chopped)
+  60 min: 0.5 oz Willamette (flameout)
+
+Top off to 2 gal. Cool to room temperature. Add yeast. Ferment.
+
+Dry hop with the remaining 0.5 oz Chinook.
+
+
+== Brew day (2019-12-29)
+
+No major changes to the recipe above. Added yeast nutrients (1.5 tsp)
+at 50 minutes.
+
+Our kettle is <2 gal, so I boiled and cooled about 3/4 gal of water
+separately to dilute with later. Also used about a cup of this water
+to rehydrate the yeast.
+
+This is the first time I brew in an American kitchen. The differences
+from Stockholm include having a much larger sink, a gas stove and a
+freezer with built in ice machine. The gas stove produced a very nice
+rolling boil. The sink and ice machine enabled me to cool the wort
+pretty quickly without needing an immersion chiller.
+
+Temperature control while steeping the malts was a bit tricky. I don't
+have a good thermometer and had to rely on a cheap meat thermometer
+instead. I think it Worked out ok anyway, but it would be nice having
+something that's easier to read.
+
+Added some water to the boil around 55 minutes to adjust for what had
+boiled off, but I didn't add enough! The ~3/4 gal I had set aside for
+topping off wasn't sufficient to hit the full 2 gal. Ended up adding 6
+cups of water straight from the tap. Not ideal, but it'll work out.
+
+A fair bit of the lost volume was due to trub, which I had completely
+forgotten to take into account. Also lost 1.5 cups of the undiluted
+wort to a sample that I took before diluting (because stupid). That
+had SG at 1.092
+
+OG: 1.049
