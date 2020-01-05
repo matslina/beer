@@ -66,3 +66,21 @@ wort to a sample that I took before diluting (because stupid). That
 had SG at 1.092
 
 OG: 1.049
+
+== Note on fermentation (2020-01-05)
+
+Fermentation started within 12 hours, but there was very little
+pressure build up visible in the airlock. Didn't hear or see a single
+bubble. After perhaps 1 or 2 days, I couldn't see any visual
+indication of active fermentation.
+
+This is similar to the cider I made November 5th, and I think the
+brewdemon fermentor is to blame. For the next batch, I think I'll try
+some thread sealing tape. If that doesn't work, I might just get rid
+of it.
+
+Another issue is that the trub reaches above the spigot in the
+brewdemon, rendering it useless for my purposes. Same thing happened
+with the cider. The whole point was to not have to siphon it off into
+a bottling bucket, but all the gunk around the spigot makes that a no
+go. I'll have to siphon this batch too.
