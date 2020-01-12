@@ -84,3 +84,77 @@ brewdemon, rendering it useless for my purposes. Same thing happened
 with the cider. The whole point was to not have to siphon it off into
 a bottling bucket, but all the gunk around the spigot makes that a no
 go. I'll have to siphon this batch too.
+
+== Dry hopping (2020-01-07)
+
+Added 0.7 oz Chinook pellets to fermentor and took a sample.
+
+SG: 1.006
+
+Lower than I had expected. After some head scratching, I've concluded
+that this is likely due to my "liberal rounding" when scaling down the
+recipe.
+
+Here are the ratios of Crystal malt to DME, Honey to DME and FG for
+the four batches, ordered chronologically, with the fourth set of
+numbers representing this current batch:
+
+Crystal to DME: 0.24,  0.20,  0.24,  0.19
+Honey to DME:   0.21,  0.16,  0.20,  0.19
+FG:             1.009, 1.010, 1.009, 1.006
+
+When the Crystal ratio was on the higher end (contributing more
+unfermentables and increasing FG) the honey ratio was also higher
+(resulting in more fermentables and decreasing FG). For this last batch,
+Crystal was lowish, while honey was highish. A low FG seems like a
+reasonable result.
+
+The sample itself tasted fine, but was still very bitter. Is the hop
+to overall volume ratio is off as well?
+
+Multiplying the hop contribution in grams by the alpha acid
+composition and dividing it by the overall volume should give us a
+measure of alpha acids per liter of beer. For the previous batches,
+this works out to roughly 0.53 units/liter, and 0.82 units/liter for
+this batch. Almost a 50% increase.
+
+Plugged the above recipe into the Brewer's Friend calculator. Here are
+the predictions:
+
+OG: 1.055
+FG: 1.012
+IBU: 150
+
+Fortunately, the internet says IBU >110 is impossible unless special
+hop extracts are added. Let's say we hit 100 IBU in the brew kettle. I
+more than doubled the volume by dilution, so overall IBU ough to be
+below 50. Lower end of the IPA range.
+
+== Fining (2020-01-11)
+
+Dissolved ~2 grams of flavourless gelatine in 3 oz of water at ~150
+F. Added to fermentor.
+
+== Bottling (2020-01-12)
+
+Dissolved 35 grams of table sugar in 1 cup of water. Boiled it.
+
+Siphoned to bottling bucket. Very hazy. Should probably have given the
+gelatine more time.
+
+From bottling bucket to my brand new 1.5 gal Turbokeg. Would estimate
+that I put in 1.25 - 1.4 gal. The remainder was enough for two 12 oz
+bottles and a fairly gunky pint sized sample. I forgot to flush the
+keg with CO2 btw.
+
+Total volume in fermentor was about 1.9 gal. Got about 1.6 on bottle
+and keg. Lots of gunk in the bottom.
+
+Taste is bitter and gingery. Will need a couple of weeks to mellow
+out. I think it'll turn out well enough.
+
+OG: 1.006 - 1.007 (with priming sugar, because stupid)
+
+Note on kegging: This is great. So much easier than bottles. I might
+just put the whole volume on keg next time around just to eliminate
+the bottling bucket from the equation.
