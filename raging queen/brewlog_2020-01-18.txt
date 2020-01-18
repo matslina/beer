@@ -1,0 +1,97 @@
+
+== Recipe
+
+This is put together by combining a couple of different clones
+[1][2][3] of Flying Dog's Raging Bitch IPA.
+
+A bitch is a female dog. A female, unspayed cat, is called a Queen. I
+don't have a dog, but I do have a cat. Hence, this beer is called
+Raging Queen.
+
+Originally scaled this to a 2 gal recipe, but in practice my current
+kettle is only good for a 1.5 gal boil and I'll have to dilute the
+wort post-boil. Used Brewer's Friend to adjust the recipe with that in
+mind.
+
+Grain bill:
+- 3.2 lbs Maris Otter LME
+- 0.9 lbs Pilsen DME
+- 5 oz Crystal 40 L
+- 5 oz Carapils
+
+Hops:
+- 0.3 oz Warrior
+- 1.4 oz Amarillo
+- 0.7 oz Columbus
+
+Schedule:
+60 min 0.3 oz Warrior
+30 min 0.2 oz Amarillo
+30 min 0.2 oz Columbus
+15 min 0.3 oz Amarillo
+15 min 0.3 oz Columbus
+ 0 min 0.2 oz Amarillo (flameout)
+ 0 min 0.2 oz Columbus (flameout)
+
+Yeast:
+- Belgian Ardennes (Wyeast 3522)
+
+Dry hop:
+- 0.7 oz Amarillo
+
+Stats:
+- OG:  1.084
+- FG:  1.020
+- ABV: 8.36%
+- IBU: 66.24
+- SRM: 9.75
+
+[1] http://beersmithrecipes.com/viewrecipe/1114500/clone-flying-dog-raging-bitch
+[2] https://www.homebrewtalk.com/forum/threads/raging-bitch-clone.281500/
+[3] https://www.brewersfriend.com/homebrew/recipe/view/12319/raging-bitch-clone
+
+== Brew day (2020-01-18)
+
+Brewing together with C today. Raging Bitch is one of her favorite
+beers, and that's the main motivation for this brew. It's meant to be
+reasonably similar in style to the original.
+
+Steeped the specialty grains for 30 minutes in 1 gal around 70
+C. Remembered to sparge the grain bag this time. Topped up to roughly
+1.5 gal, added the malt extracts and brought to a boil. Followed the
+hop scehdule, but also added 1 tsp yeast nutrient at 10 minutes, and
+1/4 whirlfloc tablet at 5 minutes.
+
+I poured the whole shebang into the fermenter. Trub and all. No
+filtering of any kind. Then diluted up to 2 gal. I forgot to record
+the volume before diluting, but I'd guess it was around 1.5 gal. I had
+continuously topped up the brew kettle with boiling water to keep it
+near that volume.
+
+Couldn't find the Belgian Ardennes yeast at my LHBS. They recommended
+trying Belgian Ale A (OYL-024) instead, which I did. This was a liquid
+pack. I forgot to shake it before pitching, so there was a lot of gunk
+left in the bottom of the pack. I added a bit of the boiled and cooled
+water I used for dilution, gave it a shake and pitched the remaining
+slurry.
+
+I also dropped in my brand new Tilt Hydrometer. Super cool device.
+
+OG: 1.074 (Hydrometer)
+OG: 1.073 (Tilt)
+
+That's quite a bit lower than the 1.084 I was aiming for. I did lose
+some LME due to a brainfart (confused by 0.1 lbs not being equal to 1
+oz), but hardly the 0.6 lbs I'd have to lose to drop down to 1.073
+according to Brewer's Friend.
+
+It's possible that the dilution resulted in more high gravity wort in
+the bottom of the fermenter, throwing off both my sample and the tilt
+which primarily measure the upper part. If that's the case, then the
+tilt might report a higher SG when fermentation kicks off. We'll see.
+
+It's also possible that I diluted to more than 2 gallons by
+accident. Will check later.
+
+Anyway, assuming the same FG, I should be looking at an ABV of about
+7% instead of 8.4%. Not the end of the world.
