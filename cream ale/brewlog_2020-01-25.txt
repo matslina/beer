@@ -1,0 +1,78 @@
+I want to brew a light, drinkable, lager like beer. Something with a
+perhaps broader appeal than some of the heavier, hoppier and spicier
+beers I've made before. Something that'll work well this coming
+summer.
+
+Since I don't have space for a fermentation chamber, an actual lager
+isn't really an option. But a Cream Ale could work. After reading some
+articles about the style, I formulated a very simple recipe that I'd
+like to experiment with a bit.
+
+Experiment 1 is focused on malt (extract). I'll make two 1 gal
+batches. One with Briess Pilsen DME, and the other with Briess Golden
+Light DME. I'll also use cane sugar, since that appears to have been a
+common practice for cream ales. Should help dry them out a bit.
+
+For yeast, I'll be using OSLO Kveik from Bootleg Biology. First time
+trying a kveik. This strain is said to produce very crisp, lager like
+beers. Even at high temperatures. That'll be useful later in the year.
+
+For Hops, I'll just use what I happen to have avaialble, and that's
+Amarillo. Not typical for the style I guess, but whatever. Since the
+target IBU is low, and the volume is as well, the quantities will be
+tiny. I ordered a jewelry scale to make sure I have sufficient
+precision.
+
+Fermentables:
+ - 0.8 lbs DME
+ - 1.7 oz  Cane sugar
+
+Hops:
+ - 4 g     Amarillo hops (8.6% AA)
+
+Hop schedule:
+ 60 min: 2 g Amarillo
+ 10 min: 2 g Amarillo
+
+Yeast: OSLO
+
+Prediction from Brewer's Friend:
+OG: 1.051
+FG: 1.009
+ABV: 5.62%
+IBU: 21.95
+SRM: 2.51 / 4.04 (Pilsen 2L / Golden Light 4L)
+
+== Brew day (2020-01-25)
+
+First batch was the pilsen version. Second was the Golden Light. 60
+minute boil in 1.5 gal tap water. Hop additions per schedule, as well
+as 1/8th whirlfloc tablet and 1/2 tsp yeast nutrient at 10 minutes.
+
+Chose to aim for a 1 gal post boil volume, but only transfer 10 cups
+(=5/8=0.625 gallons) to the fermentors. That leaves plenty of head
+space in case the kveik goes nuts.
+
+Post boil volume on the first batch was a bit higher than intended. My
+measuring stick and some math suggests it came in and 1.1 gal. Math
+also says that that should result in SG 1.045 instead of the planned
+1.051, but actual FG reading was 1.041. So yeah, this'll be a lighter
+beer than I planned.
+
+Second batch came in at 1 gal post boil, but OG is 1.044. ¯\_(ツ)_/¯
+
+For both batches, after cooling to 21-22 C I just let the kettle sit
+for 10-15 minutes so the trub could settle a bit. I then used a
+sanitized measuring pitcher to scoop out the clear wort. End result is
+very clear liquid in the fermentors. I think I'll try to start doing
+something like this for larger batches as well, but with a siphon.
+
+Batch 1 started boiling at 11:40 and was on fermentor at 1:20. For
+batch 2 the boil started at 1:30. On fermentor at 3:00. At 3:15 I
+split the yeast pack roughly 50-50 across both fermentors, aerated
+them by shaking and moved them to a closet.
+
+The worts look and taste fairly similar. Pilsner batch is definitely a
+bit lighter in color, but not a whole lot. It also has a bit more
+flavor or texture (or something), while the golden light wort has a
+very clean flavor. More bitterness than I'd expected in both though.
