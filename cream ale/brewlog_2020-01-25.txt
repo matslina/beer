@@ -56,7 +56,7 @@ space in case the kveik goes nuts.
 Post boil volume on the first batch was a bit higher than intended. My
 measuring stick and some math suggests it came in and 1.1 gal. Math
 also says that that should result in SG 1.045 instead of the planned
-1.051, but actual FG reading was 1.041. So yeah, this'll be a lighter
+1.051, but actual OG reading was 1.041. So yeah, this'll be a lighter
 beer than I planned.
 
 Second batch came in at 1 gal post boil, but OG is 1.044. ¯\_(ツ)_/¯
