@@ -112,3 +112,39 @@ transfer via faucet on bottling day, but not quite.
 temperature this time. Just brought the water to a boil, took it off
 heat, dissolved the gelatine, gave it a minute (tops) to cool down and
 then straight into fermenter.
+
+== Bottling (2020-02-02)
+
+The whole shebang on bottle. I don't want to waste a keg on something
+this strong. It'll take a few months to consume I'm sure.
+
+Primed with 36 grams sugar in 1 cup of water. Had 2 gal in fermenter
+and ended up with 16 bottles, so 1.5 gal in total. Probably had 1
+bottle's worth left in the bottling bucket, so 1.6 gal might be more
+accurate. Priming calculator says that works out to a "volume of CO2"
+at 2.3. That should be pretty ok for an IPA.
+
+Saw lots of floaty gunk on the top when I siphoned to bottling
+bucket. I suspect a lot of it's krausen that was previously stuck to
+the side of the fermenter but then got knocked lose when I carried it
+to the kitchen counter. Could be good to put the fermenter on a stool
+or something, so that I can transfer without moving it on
+bottling/kegging day.
+
+FG: 1.016 (Tilt)
+FG: 1.014 (hydrometer)
+
+There was a decent chunk of yeast stuck to the tilt, which I think can
+explain the difference.
+
+ABV: 7.9% (hydrometer)
+
+On the topic of the OG, I'm at a bit of a loss. My own PPG calculation
+puts OG at 1.077 for extract alone, and 1.084 including steeped
+grains. So yeah, no clue what happened.
+
+I tasted the hydrometer sample. Very sweet, spicy and bitter. Very
+much Belgian. Promising. But definitely some fusel alchohols in there
+too. Not ideal as far as replicating Raging Bitch goes, but not really
+a problem considering how strong the beer is. The alcohol flavor was
+actually kinda nice.
