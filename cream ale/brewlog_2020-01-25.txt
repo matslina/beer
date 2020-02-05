@@ -76,3 +76,40 @@ The worts look and taste fairly similar. Pilsner batch is definitely a
 bit lighter in color, but not a whole lot. It also has a bit more
 flavor or texture (or something), while the golden light wort has a
 very clean flavor. More bitterness than I'd expected in both though.
+
+Batch 1 OG: 1.041
+Batch 2 OG: 1.044
+
+== Bottling (2020-02-05)
+
+I took a look at the PPG math and it turns out I made a mistake in
+Brewer's Friend. I'd entered a post-boil volume of 1 gal, and a
+fermenter volume of 0.75. The calculator proceeded to adjust up OG
+prediction by 25%. Changing that puts the OG prediction at 1.039,
+which adds up to my own calculation (0.125*46 + 0.8*42). Probably a
+good idea to do my own SG math for the next few batches until I'm
+confident in how I use these calculators.
+
+Btw, Brewer's Friend uses 42 PPG for these DMEs, while I've seen 44
+and 43 specified elsewhere for this specific brand (Briess). ¯\_(ツ)_/¯
+
+Bottling went fine. Took about 3 hours. For both batches I used 8
+grams of table sugar in 1/3 cup of water for priming. Ended up with 4
+bottles per batch but must've had at least 1 more bottle's worth in
+the bucket.
+
+Both batches were incredibly clear. Pilsen version (batch 1) was a bit
+lighter in color, as expected. Taking care not to transfer any trub
+paid off it seems. Mostly just big blobs of kveik yeast on the
+bottom. Which I harvested btw. Going to keep it around for a couple of
+generations.
+
+Samples tasted great, but the pilsen sample had priming sugar in it so
+it's too early to draw conclusions about the difference. They tasted
+incredibly clean and lager like.
+
+Batch 1 FG: 1.004
+Batch 1 ABV: 4.9%
+
+Batch 2 FG: 1.004
+Batch 2 ABV: 5.3%
