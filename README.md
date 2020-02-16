@@ -22,3 +22,4 @@ to keep them elsewhere, that is.
 - [2020-01-18 - Raging Gueen IPA](/raging%20queen/brewlog_2020-01-18.md)
 - [2020-01-25 - Cream Ale](/cream%20ale/brewlog_2020-01-25.md)
 - [2020-02-05 - Posh Gruit](/gruit/brewlog_2020-02-05.md)
+- [2020-02-10 - Sort of SNPA](/pale%20ale/brewlog_2020-02-10.md)
