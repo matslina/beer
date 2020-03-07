@@ -24,3 +24,4 @@ to keep them elsewhere, that is.
 - [2020-02-05 - Posh Gruit](/gruit/brewlog_2020-02-05.md)
 - [2020-02-10 - Sort of SNPA](/pale%20ale/brewlog_2020-02-10.md)
 - [2020-02-23 - BIAB Cream Ale](/cream%20ale/brewlog_2020-02-23.md)
+- [2020-03-07 - Potato Pale Ale](/pale%20ale/brewlog_2020-03-07.md)
