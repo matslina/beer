@@ -28,3 +28,4 @@ to keep them elsewhere, that is.
 - [2020-03-29 - Red Rice Ale](/red%20rice%20ale/brewlog_2020-03-29.md)
 - [2020-05-03 - Westmalle Tripel](/westmalle%20tripel/brewlog_2020-05-03.md)
 - [2020-06-14 - Bohemian Kveiksody](/pilsner/brewlog_2020-06-14.md)
+- [2020-07-05 - BYO NEIPA](/neipa/brewlog_2020-07-05.md)
