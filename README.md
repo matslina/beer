@@ -31,3 +31,4 @@ to keep them elsewhere, that is.
 - [2020-07-05 - BYO NEIPA](/neipa/brewlog_2020-07-05.md)
 - [2020-07-19 - Sierra Nevada Pale Ale](/pale%20ale/brewlog_2020-07-19.md)
 - [2020-10-04 - Bohemian Kveiksody 2](/pilsner/brewlog_2020-10-04.md)
+- [2020-10-25 - More NEIPA](/neipa/brewlog_2020-10-25.md)
